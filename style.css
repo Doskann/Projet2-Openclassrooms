@@ -179,11 +179,9 @@ nav li{
     }
     .info-result
     {
-      flex-direction: column;
-      flex-wrap: wrap;
-      text-align: left;
-    }
+    border-bottom-color: #0065FC;
   }
+}
     /*end media all*/
 
 
