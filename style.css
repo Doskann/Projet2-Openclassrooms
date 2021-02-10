@@ -439,6 +439,9 @@ form
   display: grid;
   column-gap: 2rem;
   margin: 4rem 0;
+  margin-left: 25px;
+  margin-right: 25px;
+  
 }
 .activityTitle {
   grid-column: 1/-1;
