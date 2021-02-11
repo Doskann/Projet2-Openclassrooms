@@ -1,6 +1,6 @@
 # Reservia
 Projet 2 en développement web chez Openclassrooms qui a pour objetif de Transformez une maquette en site web.Un site qui permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix(voir image ci-dessous).
-![](/images/Desktop-1.png)
+![alt text](http://url/images/Desktop-1.png)
 # Éléments fournis par l'entreprise virtuelle.
 * La maquette pour les résolutions ordinateur et téléphone nous est donné.
 * Toutes les images présentes sur le site sont aussi livrés en format sm, md, l & xl.
