@@ -33,7 +33,6 @@ a
   display: flex;
   align-items: center;
   grid-area: navbar;
-  margin-left: 585px;
 }
 .hebergement-activite {
   padding: 2rem;
@@ -277,7 +276,7 @@ form
   
   .hosting {
     display: grid;
-    column-gap: 5rem;
+    column-gap: 4rem;
     grid-template-columns: 6fr 3fr;
   }
   .hostingMain {
