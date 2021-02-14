@@ -1,6 +1,5 @@
 # Reservia
-Projet 2 en développement web chez Openclassrooms qui a pour objetif de Transformez une maquette en site web.Un site qui permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix(voir image ci-dessous).
-![alt text](http://url/images/Desktop-1.png)
+Projet 2 en développement web chez Openclassrooms qui a pour objetif de Transformez une maquette en site web.Un site qui permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
 # Éléments fournis par l'entreprise virtuelle.
 * La maquette pour les résolutions ordinateur et téléphone nous est donné.
 * Toutes les images présentes sur le site sont aussi livrés en format sm, md, l & xl.
@@ -23,3 +22,4 @@ Projet 2 en développement web chez Openclassrooms qui a pour objetif de Transfo
 * L'integration est faite sur l'éditeur Visual Studio Code avec les plugins [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). Le thème, l'UI et les raccourcis clavier sont personnalisés.
 # Contact
 Vous pouvez me contacter sur [le workplace d'Openclassrooms](https://openclassrooms.workplace.com/), sur [linkedin](https://www.linkedin.com/feed/) 
+# Saidoukann_2_14022021.github.io
