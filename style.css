@@ -6,12 +6,10 @@ body{
 
 header
 {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    flex-direction: row;
-    margin:auto;
-    max-width: 1440px;
+  display: grid;
+  align-items: center;
+  max-width: 1440px;
+  margin: auto;
 
 }
 
@@ -33,7 +31,7 @@ a
   display: flex;
   align-items: center;
   grid-area: navbar;
-  margin-left: 585px;
+
 }
 .hebergement-activite {
   padding: 2rem;
@@ -101,6 +99,7 @@ a
   
 }
 
+
 .main {
   max-width: 1440px;
   margin: auto;
@@ -163,7 +162,6 @@ a
     font-family: "Raleway", "Sans serif";
     font-size: 1rem;
     cursor: pointer;
-    width:140px;
   }
   .searchFilters {
     display: flex;
