@@ -275,7 +275,7 @@ a
   
   .hosting {
     display: grid;
-    column-gap: 5rem;
+    column-gap: 2rem;
     grid-template-columns: 6fr 3fr;
   }
   .hostingMain {
@@ -285,7 +285,6 @@ a
   }
   .hostingMainHeader {
     grid-column: 1/-1;
-    margin: 0;
   }
   .hostingMainHeaderTitle {
     margin: 0;
@@ -352,28 +351,6 @@ a
     height: 100%;
     overflow: auto;
   }
-
-.hostingPopularWrapcontentContent {
-  display: flex;
-  flex-direction: column;
-}
-.hostingPopularWrapcontentContentWhitespace {
-  flex: 1;
-}
-.hostingPopularhostingMainCard {
-  height: 8.75rem;
-}
-
-.hostingPopularWrapcontentContent {
-  display: flex;
-  flex-direction: column;
-}
-.hostingPopularWrapcontentContentWhitespace {
-  flex: 1;
-}
-.hostingPopularhostingMainCard {
-  height: 8.75rem;
-}
 .hostingPopularWrapcontentWrapimg {
     position: relative;
     min-height: 100%;
@@ -407,7 +384,7 @@ a
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: auto 10rem;
     column-gap: 2rem;
-    grid-row-start: 2;
+    grid-row-start: 1;
   }
   .hostingPopularTitle {
     grid-column: 1/-1;
@@ -438,8 +415,7 @@ a
   display: grid;
   column-gap: 2rem;
   margin: 4rem 0;
-  margin-left: 25px;
-  margin-right: 25px;
+  
   
 }
 .activityTitle {
