@@ -22,4 +22,6 @@ Projet 2 en développement web chez Openclassrooms qui a pour objetif de Transfo
 * L'integration est faite sur l'éditeur Visual Studio Code avec les plugins [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). Le thème, l'UI et les raccourcis clavier sont personnalisés.
 # Contact
 Vous pouvez me contacter sur [le workplace d'Openclassrooms](https://openclassrooms.workplace.com/), sur [linkedin](https://www.linkedin.com/feed/) 
+
+[Lien du site sur la page github](https://doskann.github.io/Saidoukann_2_14022021.github.io/.)
 # Saidoukann_2_14022021.github.io
